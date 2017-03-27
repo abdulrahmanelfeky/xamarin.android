@@ -1,0 +1,44 @@
+\select@language {arabic}
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {chapter}{\numberline {\I {1}}\@arabic@R {\IeC {\meem }\IeC {\qaf }\IeC {\dal }\IeC {\meem }\IeC {\T }}}{\if@rlmain \I {1}\else \textLR {1}\fi }
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }\@arabic@R {\IeC {\meem }\IeC {\alef }\IeC {\ha }\IeC {\waw } \bgroup \beginL \latintext Xamarin\endL \egroup }}{\if@rlmain \I {1}\else \textLR {1}\fi }
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }\@arabic@R {\IeC {\nun }\IeC {\baa }\IeC {\dhal }\IeC {\T } \IeC {\ayn }\IeC {\nun } \IeC {\taa }\IeC {\alef }\IeC {\ra }\IeC {\ya }\IeC {\kha } \bgroup \beginL \latintext Xamarin\endL \egroup }}{\if@rlmain \I {1}\else \textLR {1}\fi }
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {3.1}\else \textLR {1.3}\fi }\@arabic@R {\IeC {\meem }\IeC {\alef }\IeC {\dhal }\IeC {\alef } \IeC {\ya }\IeC {\qaf }\IeC {\sad }\IeC {\dal } \IeC {\baa }\IeC {\alef }\IeC {\lam }\IeC {\meem }\IeC {\nun }\IeC {\sad }\IeC {\alef }\IeC {\taa } \IeC {\alef }\IeC {\lam }\IeC {\meem }\IeC {\taa }\IeC {\ayn }\IeC {\dal }\IeC {\dal }\IeC {\T } \bgroup \beginL \latintext (Cross-Platform)\endL \egroup }}{\if@rlmain \I {1}\else \textLR {1}\fi }
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {4.1}\else \textLR {1.4}\fi }\@arabic@R {\IeC {\meem }\IeC {\alef }\IeC {\ha }\IeC {\ya } \bgroup \beginL \latintext (Native Apps)\endL \egroup }}{\if@rlmain \I {2}\else \textLR {2}\fi }
+\select@language {arabic}
+\contentsline {chapter}{\numberline {\I {2}}\@arabic@R {\IeC {\taa }\IeC {\ha }\IeC {\ya }\IeC {\yahamza }\IeC {\T } \IeC {\baa }\IeC {\ya }\IeC {\yahamza }\IeC {\T } \IeC {\alef }\IeC {\lam }\IeC {\ayn }\IeC {\meem }\IeC {\lam }}}{\if@rlmain \I {3}\else \textLR {3}\fi }
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }\@arabic@R {\IeC {\taa }\IeC {\Haa }\IeC {\meem }\IeC {\ya }\IeC {\lam } \bgroup \beginL \latintext Xamarin Unified Installer\endL \egroup }}{\if@rlmain \I {3}\else \textLR {3}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }\@arabic@R {\IeC {\taa }\IeC {\sheen }\IeC {\ghayn }\IeC {\ya }\IeC {\lam } \bgroup \beginL \latintext Xamarin Installer\endL \egroup }}{\if@rlmain \I {4}\else \textLR {4}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.2}\else \textLR {2.2.1}\fi }\@arabic@R {\IeC {\alef }\IeC {\waw }\IeC {\lam } \IeC {\kha }\IeC {\Ta }\IeC {\waw }\IeC {\T } : \bgroup \beginL \latintext Xamarin License\endL \egroup }}{\if@rlmain \I {5}\else \textLR {5}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.2}\else \textLR {2.2.2}\fi }\@arabic@R {\IeC {\thaa }\IeC {\alef }\IeC {\nun }\IeC {\ya } \IeC {\kha }\IeC {\Ta }\IeC {\waw }\IeC {\T } }}{\if@rlmain \I {6}\else \textLR {6}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {subsection}{\numberline {\if@rl \I {3.2.2}\else \textLR {2.2.3}\fi }\@arabic@R {\IeC {\thaa }\IeC {\alef }\IeC {\lam }\IeC {\thaa }\IeC {\T } \IeC {\kha }\IeC {\Ta }\IeC {\waw }\IeC {\T } }}{\if@rlmain \I {7}\else \textLR {7}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {subsection}{\numberline {\if@rl \I {4.2.2}\else \textLR {2.2.4}\fi }\@arabic@R {\IeC {\ra }\IeC {\alef }\IeC {\baa }\IeC {\ayn } \IeC {\kha }\IeC {\Ta }\IeC {\waw }\IeC {\T } }}{\if@rlmain \I {8}\else \textLR {8}\fi }
+\select@language {english}
+\select@language {arabic}
+\select@language {arabic}
+\contentsline {chapter}{\numberline {\I {3}}\@arabic@R {\IeC {\taa }\IeC {\ayn }\IeC {\ra }\IeC {\ya }\IeC {\fa }\IeC {\T } \IeC {\waw }\IeC {\alef }\IeC {\jeem }\IeC {\ha }\IeC {\T } \IeC {\alef }\IeC {\lam }\IeC {\meem }\IeC {\seen }\IeC {\taa }\IeC {\kha }\IeC {\dal }\IeC {\meem }}}{\if@rlmain \I {9}\else \textLR {9}\fi }
+\select@language {arabic}
+\contentsline {chapter}{\numberline {\I {4}}\@arabic@R {\IeC {\alef }\IeC {\nun }\IeC {\sheen }\IeC {\alef }\IeC {\hamza } \IeC {\meem }\IeC {\sheen }\IeC {\ra }\IeC {\waw }\IeC {\ayn } \IeC {\jeem }\IeC {\dal }\IeC {\ya }\IeC {\dal }}}{\if@rlmain \I {11}\else \textLR {11}\fi }
